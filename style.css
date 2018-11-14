@@ -1,0 +1,10 @@
+.btn-primary{
+  background-color: red;
+  border-color: transparent !important;
+  margin-top: 20px;
+  width: 100%;
+}
+h1{
+  text-align: center;
+margin-top: 20px;
+}
